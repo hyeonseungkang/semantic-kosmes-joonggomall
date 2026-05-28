@@ -1,9 +1,9 @@
 # 자산거래중개장터의 시맨틱 검색 및 GIS 기반 능동형 중개 시스템 고도화 제안
 
-<img src="assets/first_medal.png" alt="아이콘" style="vertical-align: middle; margin-right: 15px;" width="50">
+<img src="assets/first_medal.png" alt="아이콘" width="50">
 <span style="font-size: 15px;font-weight: bold;">중소벤처기업진흥공단 이사장 표창 수상</span>
 <br><br>
-<img src="assets/sports_medal.png" alt="아이콘" style="vertical-align: middle; margin-right: 15px;" width="50">
+<img src="assets/sports_medal.png" alt="아이콘" width="50">
 <span style="font-size: 15px;font-weight: bold;">빅데이터혁신융합대학사업단 사업단장 장려상 수상</span>
 
 ## 제5회 AI·공공데이터 활용 및 창업 경진대회 공모전 출품작
