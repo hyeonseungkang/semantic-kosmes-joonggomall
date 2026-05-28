@@ -1,0 +1,16 @@
+[project]
+name = "kosmes-ai-service"
+version = "0.0.1"
+description = "K-자원순환 브릿지 AI Microservice"
+requires-python = ">=3.11"
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+asyncio_mode = "auto"
